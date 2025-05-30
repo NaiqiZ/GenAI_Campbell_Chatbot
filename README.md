@@ -1,4 +1,4 @@
-# ALAB_Campbell_MarketingChatbot
+GenAI_Campbell_MarketingChatbot
 
 This repository documents our project developed as part of the MIT GenAI Lab (15.S04), designed for Campbell’s marketing team to analyze Amazon advertising data via a chat interface powered by LangGraph and Databricks MLflow.
 
