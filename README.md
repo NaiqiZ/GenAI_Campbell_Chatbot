@@ -28,7 +28,7 @@ The goal: to empower marketing teams with actionable answers through a secure, e
 
 ---
 
-## What This Tool Does
+## Result
 
 **Ask a marketing question in English, and get back a business-ready, data-grounded answer.**
 
