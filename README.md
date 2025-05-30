@@ -19,7 +19,7 @@ The goal: to empower marketing teams with actionable answers through a secure, e
 
 ## Technical Approach
 
-- **Language**: Python  
+- **Language**: Python, SQL 
 - **Model**: LangGraph with Supervisor, Genie, LLM, and Final Answer agents  
 - **LLM Orchestration**: LangGraph  
 - **SQL Agent**: Genie Agent (Databricks SQL)  
@@ -104,13 +104,6 @@ agents.deploy(...)
 
 ---
 
-## Security & Data
-
-- No sensitive or PII data is used.
-- All metrics are anonymized and scoped to internal marketing campaigns.
-- Inference and execution occur fully within Databricks.
-
----
 
 ## Deployment Summary
 
